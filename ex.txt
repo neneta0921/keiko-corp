@@ -1,0 +1,11 @@
+start => 47.34s
+<!-- #1 Minimize all text -->
+=> 40.40s
+<!-- #2 Minimize images -->
+=> 10.46s
+<!-- #3 Media Queries -->
+width > 900px => 8.39s
+width 500px ~ 900px => 4.37s
+width < 500px => 6.64s
+<!-- #4 Minimize # of files -->
+=> 8.33s
